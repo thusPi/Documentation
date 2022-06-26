@@ -1,0 +1,10 @@
+{
+    "name": "Example extension",
+    "description": "Use for documentation purposes only.",
+    "features": {
+        "dashboard/widgets": [
+            "my_widget"
+        ]
+    },
+    "enabled": true
+}
